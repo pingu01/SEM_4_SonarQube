@@ -1,0 +1,1 @@
+C:\Users\gabri\faculdade\m9\SEM_4_SonarQube\dotnet-sonarqube-example\.sonarqube\out\0
